@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: de.siteof.util.bean Plug-in
+Bundle-SymbolicName: de.siteof.util.bean
+Bundle-Version: 1.0.0
+Bundle-Vendor: Daniel Ecer
+Bundle-Localization: plugin
+Require-Bundle: de.siteof.util.filter
+Export-Package: de.siteof.util.bean,
+ de.siteof.util.bean.filter
